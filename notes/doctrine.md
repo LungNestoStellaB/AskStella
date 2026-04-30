@@ -1,7 +1,21 @@
 # AskStella Doctrine
 
+_Last updated: 2026-04-30_
+
 ## Core Promise
 AskStella helps people ask the right questions before they choose an AI agent.
+
+**The anchor line:** "I'll help you ask the right questions."
+
+Supporting promises:
+- I'll help you avoid wasting time and money
+- I'll help you choose with more confidence
+- I won't drown you in hype or jargon
+
+## The Thesis
+"The agent's agent."
+
+We are not building agents. We are the guide to agents. The recommendation engine is the next gold rush — not the agents themselves, but the trusted voice that helps people choose.
 
 ## What AskStella Is
 AskStella is a disarming, professional, credible guide for people who want help choosing the right AI agent for their life or work.
@@ -79,3 +93,37 @@ They should not sprawl the repo or dump generic AI summaries into it.
 
 ## Site Principle
 AskStella should feel like a calm recommender with judgment, not a search engine or spec sheet graveyard.
+
+## Launch Catalyst
+FIFA World Cup 2026 (June 11 start). The biggest online traffic event on the planet, every four years.
+
+Strategy: ride the algo wave with obvious bait ("Ask Stella who's playing tonight") to get caught in the World Cup search swell and surf it for a month. Algorithmic judo — use the weight of the World Cup's traffic to pull AskStella into the mainstream feed.
+
+Timeline:
+- May: LinkedIn + Instagram Business live
+- Content bank generated and holding
+- askstella.online destination finalized
+- June 11: launch into the wave
+
+## Infrastructure
+- Domain: askstella.online
+- Email: just@askstella.online → StellaB@sestito.com
+- Content tagged, held in reserve
+- Social presence: not yet live (LinkedIn + Instagram Business needed before syndicate release)
+
+## Content Architecture
+- Short = hook (warm, unarming, "I can't wait to introduce you to your new best friend")
+- Long = 3-5 min deep dive with Mature Stella (case studies, motivation, practical guidance)
+- Every short has a corresponding long
+- Monetization: hours viewed + recommendation authority + MyClaw affiliate
+
+## The First 5 Questions
+These are what AskStella answers before anyone pulls out a credit card:
+
+1. What do you actually want it to do?
+2. How technical are you willing to get?
+3. What's your privacy line?
+4. What's your real budget?
+5. Do you need it to remember you?
+
+Each question is a short video. Each has a corresponding deep dive.
